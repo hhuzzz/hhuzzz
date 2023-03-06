@@ -1,7 +1,7 @@
 ### Hi there 👋
 - :school: I’m an undergraduate of NCU, majoring in software engineering
-- 👀 I’m interested in cpp、python、cv
-- :seedling: I’m currently learning cpp(so difficult:cold_sweat:)
+- 👀 I’m interested in cpp、Python、GNN
+- :seedling: I’m currently learning cpp and GNN(so difficult:cold_sweat:)
 - :mailbox: How to reach me: hhuzzz124@163.com or **hhuzzz124**(wechat)
 
 <!---
