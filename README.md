@@ -4,13 +4,8 @@
 - 🌱 I’m currently learning C++ and GNN(so difficult:cold_sweat:)
 - 📫 How to reach me: hhuzzz124@163.com -->
 
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhuzzz&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhuzzz&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
-<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=hhuzzz&theme=algolia" alt="huan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhuzzz&layout=compact&theme=algolia" /> |
-| ------------- | ------------- | -->
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hhuzzz&theme=algolia" alt="huan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhuzzz&layout=compact&theme=algolia" /> |
+| ------------- | ------------- |
 
 <!---
 hhuzzz/hhuzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
