@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C++ and GNN(so difficult:cold_sweat:)
 - 📫 How to reach me: hhuzzz124@163.com -->
 
-<img algin="center" src = ".\imgs\chelsea.jpg" alt="chelsea" height=500/>
+<!--<img algin="center" src = ".\imgs\chelsea.jpg" alt="chelsea" height=500/>-->
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=hhuzzz&theme=algolia" alt="huan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhuzzz&layout=compact&theme=algolia&hide=javascript,css,html,cmake,makefile" /> |
 | ------------- | ------------- |
